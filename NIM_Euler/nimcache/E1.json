@@ -1,0 +1,13 @@
+{"compile":[
+]
+],
+"link":[
+"/home/sangho/Documents/Euiler/Euler.nim/nimcache/E1.o",
+"/home/sangho/Documents/Euiler/Euler.nim/nimcache/stdlib_system.o",
+"/home/sangho/Documents/Euiler/Euler.nim/nimcache/stdlib_future.o",
+"/home/sangho/Documents/Euiler/Euler.nim/nimcache/stdlib_math.o",
+"/home/sangho/Documents/Euiler/Euler.nim/nimcache/stdlib_sequtils.o",
+"/home/sangho/Documents/Euiler/Euler.nim/nimcache/stdlib_macros.o"
+],
+"linkcmd": "g++   -o /home/sangho/Documents/Euiler/Euler.nim/E1  /home/sangho/Documents/Euiler/Euler.nim/nimcache/E1.o /home/sangho/Documents/Euiler/Euler.nim/nimcache/stdlib_system.o /home/sangho/Documents/Euiler/Euler.nim/nimcache/stdlib_future.o /home/sangho/Documents/Euiler/Euler.nim/nimcache/stdlib_math.o /home/sangho/Documents/Euiler/Euler.nim/nimcache/stdlib_sequtils.o /home/sangho/Documents/Euiler/Euler.nim/nimcache/stdlib_macros.o  -lm   -ldl"
+}
